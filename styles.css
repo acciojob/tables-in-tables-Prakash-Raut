@@ -1,2 +1,13 @@
-
 /* Your CSS Code here. */
+table {
+    font-family: 'Times New Roman', Times, serif;
+	width: 100%;
+	height: 100%;
+  }
+  th, td {
+	text-align: center;
+  }
+  a {
+    color: purple;
+    text-decoration: underline;
+  }
